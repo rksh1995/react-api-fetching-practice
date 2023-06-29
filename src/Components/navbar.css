@@ -1,0 +1,29 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.container{
+    display: flex;
+    align-items:center ;
+    background-color: #0f0f0f;
+    font-size: 18px;
+    font-weight:400;
+    font-family: Arial;
+    padding: 25px;
+    color:white;
+  
+}
+.list-items{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 28px;
+    
+
+}
+.left-side-icon{
+    flex-grow: 1;
+ 
+}
