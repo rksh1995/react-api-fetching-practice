@@ -5,3 +5,15 @@
     background-color: gray;
     border-radius:10px;
 }
+button{
+    padding: 0 10px;
+}
+.shimmer-container{
+    display: flex;
+}
+.shimmer-card{
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: rgb(226, 224, 224);
+}
